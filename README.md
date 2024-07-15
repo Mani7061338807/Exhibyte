@@ -31,3 +31,7 @@
 
 - npm install
 - npm run dev
+
+### Deployment
+
+- You can view the deployed project here. [Demo](https://exhibyte.onrender.com/)
