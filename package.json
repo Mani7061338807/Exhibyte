@@ -1,9 +1,9 @@
 {
-  "homepage": "https://Mani7061338807.github.io/Exhibyte",
   "name": "exhibyte_assingment_twubric",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Mani7061338807.github.io/Exhibyte",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
