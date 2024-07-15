@@ -39,7 +39,7 @@ const Twubric = () => {
        setSortCriterion(criterion);
        setSortOrder("asc");
      }
-  }, []);
+  }, [sortOrder]);
    
 
   // Remove a user by filtering out the user with the given uid
