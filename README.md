@@ -10,7 +10,7 @@
 
   - Sorting can be toggled between ascending and descending order.
 
-  - Users can also use keyboard shortcuts (Ctrl+T, Ctrl+F, Ctrl+I, Ctrl+H) to quickly sort by Twubric Score, Friends, Influence, and Chirpiness respectively.
+  - Users can also use keyboard shortcuts (Ctrl+B, Ctrl+F, Ctrl+I, Ctrl+H) to quickly sort by Twubric Score, Friends, Influence, and Chirpiness respectively.
 
 - **Filtering by Date Range**: Filter users based on their join date within a specified date range.
 
